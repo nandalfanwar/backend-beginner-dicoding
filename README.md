@@ -28,8 +28,8 @@ While this project is a great starting point, remember that simply copying the w
  ┣ 📜.gitignore            # Git ignore configuration.  
  ┣ 📜package.json          # Project dependencies and scripts.  
  ┣ 📂api                   # Postman collection and environment for testing.  
- ┃ ┣ 📜postman_collection.json   # Postman collection for testing API endpoints.  
- ┃ ┣ 📜postman_environment.json   # Postman environment variables.  
+ ┃ ┣ 📜Bookshelf API Test.postman_collection.json   # Postman collection for testing API endpoints.  
+ ┃ ┣ 📜api/Bookshelf API Test.postman_environment.json   # Postman environment variables.  
  ┣ 📜README.md             # Project documentation.  
 ```
 
